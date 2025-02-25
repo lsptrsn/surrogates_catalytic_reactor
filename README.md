@@ -8,7 +8,7 @@ Python implementation to reproduce the results in [1]. The dependencies are give
 * `03a_GNN`: code to build up the GNN surrogate model
 * `03b_GNN+POD`: code to build up the GNN surrogate model on reduced data
 * `04_OpInf`: code to build up the OpInf surrogate model
-* `05_SINDy`: code to build up the SINDy surrogate model
+* `05_GN-SINDy`: code to build up the GN-SINDy surrogate model
 
 # Runtime
 We will report the runtime of each code inside the respective folder. To obtain the times, we used the same computer system with the characteristics given below.
