@@ -25,12 +25,12 @@ code/05_SINDy/examples/results/SINDy_pde/
 
 
 # Except for the following .npy files
-!code/01_first_principle_model/reactor_model/results/conversion_start_up.npy
-!code/01_first_principle_model/reactor_model/results/temperature_start_up.npy
-!code/02_FOM_data/case_1/*.npy
-!code/02_FOM_data/case_2/*.npy
-!code/02_FOM_data/case_3/*.npy
-!code/02_FOM_data/case_4/*.npy
+!01_first_principle_model/reactor_model/results/conversion_start_up.npy
+!01_first_principle_model/reactor_model/results/temperature_start_up.npy
+!02_FOM_data/case_1/*.npy
+!02_FOM_data/case_2/*.npy
+!02_FOM_data/case_3/*.npy
+!02_FOM_data/case_4/*.npy
 
 # Except for the following figures
 !paper/*.png
